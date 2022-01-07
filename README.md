@@ -4,6 +4,8 @@ You might already be familiar with many smartphones that allow you to use a geom
 
 The image below has an example pattern of 7 dots/points: (A -> B -> I -> E -> D -> G -> C).
 
+![zmPNYdv](https://user-images.githubusercontent.com/95478521/148540311-11675ed1-3f77-4489-99e0-539ebb555930.png)
+
 Implement a function that returns *the number of possible patterns starting from a given first point, that have a given length*.
 
 More specifically, for a function count_patterns_from(first_point, length), the parameter first_point is a single-character string corresponding to the point in the grid (i.e.: 'A') where your patterns start, and the parameter length is an integer indicating the number of points (length) every pattern must have.
